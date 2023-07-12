@@ -5,7 +5,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 👨‍🎓  I'm a Computer Science student (3rd year)
+- 👨‍🎓  B.Sc. In Computer science
   
 - 💪  I'm a self-taught, continuously searching for greater challenges and have great team and leadership abilities
 
